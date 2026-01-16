@@ -44,7 +44,60 @@
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-📜 Over **30,000+ lines** of insights into their structure and functionality.  
+📜 Over **30,000+ lines** of insights into their structure and functionality.
+
+## 📂 Directory
+
+### 📑 Detailed Tool List
+
+| Category | Tool Name | Description |
+| :--- | :--- | :--- |
+| **Code Editors / IDEs / Extensions** | **Amp** | AI code editor/agent. |
+| | **Augment Code** | AI coding assistant extensions. |
+| | **CodeBuddy Prompts** | Chat and Craft prompts for CodeBuddy. |
+| | **Comet Assistant** | System prompt for Comet Assistant. |
+| | **Cursor Prompts** | Prompts for Cursor AI editor (Agent, Chat). |
+| | **Kiro** | AI assistant and IDE built to assist developers. |
+| | **Trae** | Builder and Chat prompts for Trae IDE. |
+| | **VSCode Agent** | Various prompts for VS Code agents (Claude, GPT, etc.). |
+| | **Warp.dev** | Prompt for Warp terminal assistant. |
+| | **Windsurf** | Prompts and tools for Windsurf IDE. |
+| | **Xcode** | Prompts for Xcode's AI features (Swift Assist). |
+| | **Z.ai Code** | Prompt for Z.ai coding assistant. |
+| | **Same.dev** | Cloud-based AI IDE agent. |
+| | **Cline** (Open Source) | VS Code extension for autonomous coding. |
+| | **RooCode** (Open Source) | VS Code extension, a fork of Cline. |
+| | **Codex CLI** (Open Source) | CLI tool prompts. |
+| | **Gemini CLI** (Open Source) | CLI tool prompts. |
+| **Autonomous Coding Agents** | **Devin AI** | Autonomous AI software engineer. |
+| | **Manus Agent** | Agent loop and modules for Manus. |
+| | **Junie** | Autonomous coding agent prompt. |
+| | **Qoder** | Quest-based coding agent. |
+| | **Traycer AI** | Plan and Phase mode prompts for Traycer. |
+| | **Poke** | Execution engine agent for Poke. |
+| | **Antigravity** (Google) | Agentic AI coding assistant by Google Deepmind. |
+| **Web/App Builders** | **Leap.new** | Web builder prompts and tools. |
+| | **Lovable** | Agent prompt and tools for Lovable web builder. |
+| | **Replit** | Prompt and tools for Replit's AI. |
+| | **v0 Prompts** | Prompts for Vercel's v0 UI generator. |
+| | **Bolt** (Open Source) | In-browser Node.js web container agent. |
+| | **Lumo** (Open Source) | AI assistant from Proton. |
+| | **Emergent** | Agent (E1) for building launchable MVPs. |
+| | **Orchids.app** | Next.js + Shadcn/UI project builder agent. |
+| **General Assistants / Search / Analysis** | **Anthropic** | Claude Code, Claude for Chrome, and other prompts. |
+| | **Google Gemini** | Gemini AI Studio vibe-coder prompts. |
+| | **Perplexity** | Prompt for Perplexity search assistant. |
+| | **NotionAi** | Prompt and tools for Notion's AI. |
+| | **Cluely** | Analysis assistant for solving problems. |
+
+### 🗂️ Tools by Category
+
+| Category | Tool Names |
+| :--- | :--- |
+| **Code Editors / IDEs / Extensions** | Amp, Augment Code, CodeBuddy, Comet Assistant, Cursor, Kiro, Trae, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Same.dev, Cline, RooCode, Codex CLI, Gemini CLI |
+| **Autonomous Coding Agents** | Devin AI, Manus Agent, Junie, Qoder, Traycer AI, Poke, Antigravity |
+| **Web/App Builders** | Leap.new, Lovable, Replit, v0, Bolt, Lumo, Emergent, Orchids.app |
+| **General Assistants / Search / Analysis** | Anthropic (Claude), Google Gemini, Perplexity, NotionAi, Cluely |
 
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
