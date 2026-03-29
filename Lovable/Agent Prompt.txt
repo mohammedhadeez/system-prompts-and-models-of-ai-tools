@@ -219,6 +219,7 @@ CRITICAL: The design system is everything. You should never write custom styles 
 1. **When you need a specific beautiful effect:**
    ```tsx
    // ❌ WRONG - Hacky inline overrides
+   <div style={{ backgroundColor: '#646cff', color: 'white' }} />
 
    // ✅ CORRECT - Define it in the design system
    // First, update index.css with your beautiful design tokens:
