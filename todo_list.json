@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "name": "Update Core Auth Hook",
+      "status": "in-progress"
+    },
+    {
+      "name": "Refactor Login Components",
+      "status": "todo"
+    },
+    {
+      "name": "Update Dashboard Components",
+      "status": "todo"
+    },
+    {
+      "name": "Update API Integration",
+      "status": "todo"
+    },
+    {
+      "name": "Test Auth Flow",
+      "status": "todo"
+    }
+  ],
+  "current_task": "Update Core Auth Hook"
+}
